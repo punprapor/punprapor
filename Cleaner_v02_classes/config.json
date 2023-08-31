@@ -1,0 +1,8 @@
+{
+    "database": {
+        "filename": "search_phrases.db"
+    },
+    "log": {
+        "filename": "processing_log.txt"
+    }
+}
